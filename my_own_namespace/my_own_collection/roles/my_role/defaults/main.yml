@@ -1,0 +1,4 @@
+---
+# defaults file for myrole
+  my_path: "/tmp/file"
+  my_content: "test"
